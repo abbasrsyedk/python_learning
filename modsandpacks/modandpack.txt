@@ -1,0 +1,3 @@
+how to create a module and packages ?
+we deal with .py scripts
+
